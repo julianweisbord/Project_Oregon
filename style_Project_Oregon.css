@@ -5,6 +5,9 @@ form-wrap {
 
 
 }
+
+
+
 fieldset {
 /* max width allows the width to become smaller as the page gets smaller*/
 		max-width: 300px;
@@ -43,6 +46,14 @@ fieldset {
 		height: 85%;
 
 	}
+	.header{
+		width:49%;
+		background:rgb(150,150,150);
+		display:block;
+		border: solid ;
+		padding:0% 25%;
+
+	}
 	.columns .column2{
 		box-sizing: border-box;
 		clear: none;
@@ -60,6 +71,6 @@ fieldset {
 		height: 85%;
 	}
 	.bottom{
-		margin: center;
+		margin: 3em center; /* not working */
 		
 	}
