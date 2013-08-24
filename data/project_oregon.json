@@ -1,0 +1,65 @@
+[ 
+  {
+  "model": "Job",
+  "fields": 
+    {
+    "Job ID": 1,
+    "Submitted By (User ID)": 1,
+    "Submitted Date": "6/1/2014",
+    "Number of Openings": 2, 
+    "Employer Email": "hobson@totalgood.com",
+    "Company Name": "Total Good",
+    "Employer Phone": "(904) 514-3374",
+    "Employer URL": "totalgood.com/robotics",
+    "Job Application Instructions": "",
+    "Industry": "Robotics",
+    "Job Description": "Assemble and program a face recognition and tracking system for autonomous home management.  Assemble, wire, and program a walking solar-powered pest-deterent robot.",
+    "Work Location": "4809 SE Harrison St",
+    "City": "Portland",
+    "State": "Oregon",
+    "Postal Code": "97215",
+    "Compensation": "Take home your own Beta version of the Home Watch computer vision "robot"!  Create a page on the TotalGood website to let the world know of your contribution to open source and the advancement of robotics. Modest stipend to defray transportation and other expenses. Need and merit-based grants, available.",
+    "Start Date": "6/8/2014",
+    "End Date": "9/1/2014",
+    "Hours": "Saturday to Sunday from 1pm to 4pm",
+    "Age Range": "15-18",
+    "Experience": "none"
+    }
+  },
+  {
+  "model": "Job",
+  "fields": 
+    {
+    "Job ID": 2,
+    "Submitted By (User ID)": "1",
+    "Submitted Date": "3/15/2014",
+    "Number of Openings": "5", 
+    "Employer Email": "",
+    "Company Name": "",
+    "Employer Phone": "",
+    "Employer URL": "",
+    "Job Application Instructions": "",
+    "Industry": "",
+    "Job Description": "",
+    "Work Location": "",
+    "City": "",
+    "State": "",
+    "Postal Code": "",
+    "Compensation": "",
+    "Start Date": "",
+    "End Date": "",
+    "Hours": "",
+    "Age Range": "",
+    "Experience": ""
+    }
+  },
+  {
+  "model": "User",
+  "fields": 
+    {
+    "User ID": 1,
+    “First Name": “Hobson",
+    }
+  }    
+]
+
