@@ -1,0 +1,65 @@
+
+
+form-wrap {
+
+
+
+}
+fieldset {
+/* max width allows the width to become smaller as the page gets smaller*/
+		max-width: 300px;
+		margin: 50px left auto;
+		border: 1px solid;
+}
+
+
+		
+	input[type=text]{
+		clear: none;
+		float: left;
+
+			}
+
+	.row{
+		width: 70%;			
+		clear: both;
+		float: left;
+			}
+			
+	.columns{
+		width: 100%;
+		border:1px solid;
+		height: 800px;
+
+
+
+	}
+	.columns .column1{
+		box-sizing: border-box;
+		clear: none;
+		float: left;
+		width: 25%;
+		border: 1px solid black;
+		height: 85%;
+
+	}
+	.columns .column2{
+		box-sizing: border-box;
+		clear: none;
+		float: left;
+		width: 50%;
+		border: 1px solid black;
+		height: 85%;
+	}	
+	.columns .column3{
+		box-sizing: border-box;
+		clear: none;
+		float: left;
+		width: 25%;
+		border: 1px solid black;
+		height: 85%;
+	}
+	.bottom{
+		margin: center;
+		
+	}
